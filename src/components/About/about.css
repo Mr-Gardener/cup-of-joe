@@ -1,0 +1,21 @@
+.aboutPg {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    margin: 0 25px 0 25px;
+}
+
+.right {
+    background-color: 	#DAA520;
+    height: 330px;
+}
+
+.fa-brands {
+    margin: 10px;
+    color: #DAA520;
+    background-color: black;
+    width: 30px;
+    height: 25px;
+    border-radius: 50%;
+    padding: 4px;
+}

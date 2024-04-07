@@ -1,0 +1,68 @@
+.fun {
+    display: flex;
+    justify-content: space-around;
+    gap: 300px;
+    margin: 0 25px 0 25px;
+}
+
+/* left flexed */
+.azu {
+    margin: 0 0 0 15px;
+}
+
+.azu .date{
+    font-size: smaller;
+}
+
+.azu .date span {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.azu h4 {
+    font-size: xx-large;
+    font-stretch: condensed;
+}
+
+.azu .week-abt {
+    margin: 15px;
+}
+
+.azu .week-link {
+    display: flex;
+    justify-content: space-between;
+}
+
+.azu .week-link button {
+    padding: 10px;
+    width: 210px;
+    border: solid 1px red;
+    background-color: whitesmoke;
+}
+
+.azu .week-link a {
+    font-size: smaller;
+}
+
+.azu hr {
+    margin: 30px;
+}
+
+/* left flex */
+
+.iru {
+    align-self: flex-end;
+}
+
+.iru .rite {
+    width: 230px;
+    height: 50px;
+    padding-right: 60px;
+}
+
+.iru hr {
+    margin: 18px;
+    width: 250px;
+    margin-right: 30px;
+    background-color: blue;
+}
