@@ -1,4 +1,5 @@
 import About from "../About/about";
+import Comment from "../Comments/comments";
 import Week from '../Week/week';
 
 const Home = () => {
@@ -7,6 +8,7 @@ const Home = () => {
         <div>
             <About />
             <Week />
+            <Comment />    
         </div>
      );
 }

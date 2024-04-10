@@ -1,0 +1,44 @@
+.comm_contents {
+    background-color: #DAA520;
+    padding-bottom: 30px;
+}
+
+.comm_contents h5 {
+    margin: 20px;
+    padding-top: 30px;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+.comm_contents .creative {
+    width: 95%;
+    border: 1px solid black;
+    margin-left: 30px;
+}
+
+.comm_navs {
+    display: flex;
+    gap: 40px;
+    margin: 40px 60px 0 60px;
+}
+
+.comm_navs a {
+    text-decoration: none;
+}
+
+.comm_navs .l_sect {
+    font-weight: lighter;
+    padding: 30px;
+    color: black;
+}
+
+.comm_navs .l_contents {
+    font-size: x-large;
+    padding: 20px;
+    margin: 10px;
+    color: black;
+}
+
+.comm_navs .creative {
+    border: 1px solid black;
+}
