@@ -1,0 +1,28 @@
+.editor_content {
+    background-color: #FF7F50;
+}
+
+.editor_content p {
+    margin: 20px 0 35px 0;
+    padding-top: 25px;
+    font-size: x-large;
+}
+
+.editor_img {
+    display: flex;
+    gap: 15px;
+    justify-content: space-around;
+}
+
+.editor_img img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.editor_img .desc {
+    text-decoration: none;
+}
+
+.editor_img .desc p{
+    color: black;
+}
