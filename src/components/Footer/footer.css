@@ -1,0 +1,85 @@
+.footer_content {
+    background-color: #0000ff;
+}
+
+.footer_content h4 {
+    color: white;
+    padding: 60px 0 20px 0;
+    font-size: xx-large;
+    font-weight: lighter;
+}
+
+.footer_content .upperP{
+    margin: 10px 450px 0 450px;
+    color: white;
+    margin-bottom: 65px;
+}
+
+.footer_content .ft_line{
+    border: 1px solid white;
+    width: 90%;
+    margin-left: 60px;
+}
+  
+ 
+.ft_btm {
+    display: flex; 
+    justify-content: space-around;
+    gap: 40px;
+    margin: 40px 35px 0 35px;
+}
+
+.ft_inbox p {
+    color: white;
+    padding-bottom: 30px;
+    font-size: 18px;
+}
+
+.ft_inbox input {
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+}
+
+.ft_inbox .fa-brands {
+    background-color: #0000ff;
+    color: white;
+}
+
+.ft_options{
+    margin-left: 150px;
+}
+
+.op_links {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 25px;
+}
+
+.op_links a{
+    color: white;
+    text-decoration: none;
+    font-size: xx-small;
+    font-weight: bold;
+}
+
+.ft_options .op_rite{
+    padding-top: 100px;
+}
+
+.ft_options .op_rite p {
+    color: white;
+    font-size: x-small;
+    font-weight: bold;
+}
+
+.ft_note{
+    padding: 0 70px;
+}
+
+.ft_note p {
+    font-size: small;
+    font-weight: bold;
+    color: white;
+}
