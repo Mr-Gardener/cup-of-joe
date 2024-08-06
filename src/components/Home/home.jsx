@@ -22,9 +22,6 @@ const Home = () => {
                 <Blogs pics={veg} name="FOOD" topic="A Kitchen Gadget that Upgrades Everything" desc='"I was not looking for love, but it found me anyway."' engage="182 COMMENTS" />
                 <Blogs pics={selfie} name="STYLE" topic="Three Pieces I'm Wearing on Repeat" desc='"How is the weather where you live? After the eclipse..."' engage="285 COMMENTS" />
             </div>
-            
-            
-            
             <Comment /> 
             <Editor />  
             <Footer /> 

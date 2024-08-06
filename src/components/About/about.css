@@ -6,6 +6,8 @@
 }
 
 .right {
+    position: sticky;
+    top: 10px;
     background-color: 	#DAA520;
     height: 330px;
 }
